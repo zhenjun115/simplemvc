@@ -1,0 +1,7 @@
+{
+	"fields": ["title", "content", "uuid", "created_time", "updated_time"],
+	"primary_key": ["uuid"],
+	"foreign_key": {
+		"user": ["uuid"]
+	}
+}

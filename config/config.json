@@ -1,0 +1,5 @@
+{
+	// http server config
+	"webroot": "/var/www/html",
+	"port": 3326
+}

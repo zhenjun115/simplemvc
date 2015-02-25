@@ -1,0 +1,5 @@
+{
+	"fields": ["name", "password", "uuid"],
+	"primary_key": ["uuid"],
+	"foreign_key": null
+}

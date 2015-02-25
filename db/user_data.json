@@ -1,0 +1,12 @@
+{
+	"0": { "name": "zhenjun110", "password": "199103", "group": "user" },
+	"1": { "name": "zhenjun111", "password": "199103", "group": "user" },
+	"2": { "name": "zhenjun112", "password": "199103", "group": "user" },
+	"3": { "name": "zhenjun113", "password": "199104", "group": "admin" },
+	"4": { "name": "zhenjun114", "password": "199105", "group": "admin" },
+	"5": { "name": "zhenjun115", "password": "199106", "group": "admin" },
+	"6": { "name": "zhenjun116", "password": "199107", "group": "admin" },
+	"7": { "name": "zhenjun117", "password": "199108", "group": "admin" },
+	"8": { "name": "zhenjun118", "password": "199109", "group": "admin" },
+	"9": { "name": "zhenjun119", "password": "199110", "group": "admin" }
+}
